@@ -1,3 +1,0 @@
-/NODEJS/node_modules
-/Express/node_modules
-/Express/.env
